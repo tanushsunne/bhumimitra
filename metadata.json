@@ -1,0 +1,6 @@
+{
+  "name": "BhumiMitra",
+  "description": "Indian farmer-friendly land degradation assessment and soil conservation platform with AI soil diagnosis and simulated testing services.",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
